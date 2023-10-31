@@ -44,7 +44,6 @@ education:
       year: 2022
     - course: IT Associate Degree 
       institution: University Institute of Technology Blagnac
-      url: 
       year: 2015
 
 # Skills

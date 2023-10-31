@@ -39,10 +39,10 @@ interests:
 education:
   courses:
     - course: Engineer Diploma (Interactive Robotics Systems)
-      institution: UPSSITECH / University of Toulouse Paul Sabatier (https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/)
+      institution: University of Toulouse Paul Sabatier / [UPSSITECH](https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/)
       year: 2020
     - course: First year PhD in collaborative robotics (stopped)
-      institution: Ecole doctorale Science Physiques de l'ingénieur
+      institution: Doctoral Scool "Science Physiques de l'ingénieur"
       year: 2022
     - course: IT Associate Degree 
       institution: University Institute of Technology Blagnac

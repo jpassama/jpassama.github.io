@@ -36,12 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Engineer Diploma (Interactive Robotics Systems)
-      institution: [UPSSITECH / University of Toulouse Paul Sabatier](https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/) 
-      year: 2020
-    - course: First year PhD in collaborative robotics (stopped)
-      institution: [test](https://ed-spi.u-bordeaux.fr/)
-      year: 2022
+    # - course: Engineer Diploma (Interactive Robotics Systems)
+    #   institution: [UPSSITECH / University of Toulouse Paul Sabatier](https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/) 
+    #   year: 2020
+    # - course: First year PhD in collaborative robotics (stopped)
+    #   institution: [test](https://ed-spi.u-bordeaux.fr/)
+    #   year: 2022
     - course: IT Associate Degree 
       institution: University Institute of Technology Blagnac
       year: 2015

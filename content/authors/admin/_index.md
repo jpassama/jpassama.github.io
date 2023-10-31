@@ -39,7 +39,7 @@ interests:
 education:
   courses:
     - course: Engineer Diploma (Interactive Robotics Systems)
-      institution: University of Toulouse Paul Sabatier / **[UPSSITECH](https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/)**
+      institution: University of Toulouse Paul Sabatier / UPSSITECH
       year: 2020
     - course: First year PhD in collaborative robotics (stopped)
       institution: Doctoral Scool "Science Physiques de l'ingénieur"
@@ -69,6 +69,25 @@ skills:
         icon: database
         icon_pack: fas
   - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
+  - name: Hobbies2
     color: '#eeac02'
     color_border: '#f0bf23'
     items:

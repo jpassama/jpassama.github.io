@@ -36,13 +36,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: First year PhD in collaborative robotics (stopped)
-      institution: Stanford University
-      year: 2022
     - course: Engineer Diploma (Interactive Robotics Systems)
       institution: UPSSITECH / University of Toulouse Paul Sabatier
-      url: https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/
+        url: https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/
       year: 2020
+    - course: First year PhD in collaborative robotics (stopped)
+      institution: https://ed-spi.u-bordeaux.fr/
+      year: 2022
     - course: IT Associate Degree 
       institution: University Institute of Technology Blagnac
       url: 

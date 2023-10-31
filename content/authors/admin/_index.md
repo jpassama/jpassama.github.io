@@ -40,7 +40,7 @@ education:
       institution: [UPSSITECH / University of Toulouse Paul Sabatier](https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/) 
       year: 2020
     - course: First year PhD in collaborative robotics (stopped)
-      institution: https://ed-spi.u-bordeaux.fr/
+      institution: [test](https://ed-spi.u-bordeaux.fr/)
       year: 2022
     - course: IT Associate Degree 
       institution: University Institute of Technology Blagnac

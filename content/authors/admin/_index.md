@@ -23,6 +23,8 @@ role: Robotics and Perception Engineer, Intermediate level
 organizations:
   - name: Cimpa
     url: https://www.cimpa.com/home
+  - name: toto
+    url: https://www.google.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My working interests include robotics design and control (mobile or industrial), Perception throught exteroceptive sensors (embed or not) and decision taking.

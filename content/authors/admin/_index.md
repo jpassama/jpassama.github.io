@@ -3,7 +3,7 @@
 title: Julien Passama
 
 # # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Julien
@@ -42,9 +42,9 @@ education:
     # - course: First year PhD in collaborative robotics (stopped)
     #   institution: [test](https://ed-spi.u-bordeaux.fr/)
     #   year: 2022
-    - course: First year PhD in collaborative robotics (stopped)
-      institution: [I'm an external link](https://www.google.com)
-      year: 2022
+    # - course: First year PhD in collaborative robotics (stopped)
+    #   institution: [I'm an external link](https://www.google.com)
+    #   year: 2022
     - course: IT Associate Degree 
       institution: University Institute of Technology Blagnac
       year: 2015

@@ -23,8 +23,8 @@ role: Robotics and Perception Engineer, Intermediate level
 organizations:
   - name: Cimpa
     url: https://www.cimpa.com/home
-  - name: toto
-    url: https://www.google.com
+  # - name: toto
+  #   url: https://www.google.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My working interests include robotics design and control (mobile or industrial), Perception throught exteroceptive sensors (embed or not) and decision taking.
@@ -38,18 +38,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    # - course: Engineer Diploma (Interactive Robotics Systems)
-    #   institution: [UPSSITECH / University of Toulouse Paul Sabatier](https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/) 
-    #   year: 2020
-    # - course: First year PhD in collaborative robotics (stopped)
-    #   institution: [test](https://ed-spi.u-bordeaux.fr/)
-    #   year: 2022
+    - course: Engineer Diploma (Interactive Robotics Systems)
+      institution: UPSSITECH / University of Toulouse Paul Sabatier https://www.upssitech.eu/formation/departement-systemes-robotiques-interactifs-sri/
+      year: 2020
     - course: First year PhD in collaborative robotics (stopped)
-      institution: [I'm an external link]: (https://www.google.com)
+      institution: Ecole doctorale Science Physiques de l'ingénieur
       year: 2022
     - course: IT Associate Degree 
       institution: University Institute of Technology Blagnac
-      year: 2015
+      year: 2017
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

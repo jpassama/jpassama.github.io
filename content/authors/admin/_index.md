@@ -40,11 +40,12 @@ education:
     #   institution: Stanford University
     #   year: 2012
     - course: Engineer Diploma (Interactive Robotics Systems)
-      institution: UPSSITECH / University
+      institution: UPSSITECH / University of Toulouse Paul Sabatier
+      aaa: test de toto
       year: 2020
-    # - course: BSc in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2015
+    - course: Institute
+      institution: Massachusetts Institute of Technology
+      year: 2015
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

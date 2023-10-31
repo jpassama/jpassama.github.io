@@ -119,13 +119,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Coming from a background in computer science (DUT ~ 2015-2017), where I learned object-oriented programming and web development, I decided to pursue studies in robotics.
-
+[I'm an external link](https://www.google.com)
+<!-- Coming from a background in computer science (DUT ~ 2015-2017), where I learned object-oriented programming and web development, I decided to pursue studies in robotics.
 I completed a 3-year robotics engineering program (UPSSITECH-SRI), with 2 years in continuing education and the last year in a work-study format. The first two years focused primarily on the mathematical tools necessary for robot modeling and control (signal processing, control systems), as well as everything external to the controlled system, including perception (2D/3D vision, decision-making). During my final year, I worked in a work-study arrangement, equivalent to a position as a study engineer specializing in mobile robotics (differential drive vehicles). I conducted research on the best way to control this type of vehicle, including trajectory planning, trajectory following, and localization.
-
 Following this work-study experience, I stayed with the same company initially on a fixed-term contract, working on the same project as during my work-study period, until the project's completion. I was then hired as a permanent employee, serving as a study engineer and Cifre (Industrial Agreements for Training through Research) doctoral candidate.
-
-I spent a very enlightening year at the School of Doctoral Studies in Physical Science and Engineering, during which I conducted an in-depth literature review for my research topic, "Study of the robot as a vector for expressing expertise in a collaborative task from a distance." Eventually, I chose to terminate my doctoral studies for both professional and personal reasons. Professionally, I found greater fulfillment in a role as an engineer, focusing on research, testing, and production implementation.
+I spent a very enlightening year at the School of Doctoral Studies in Physical Science and Engineering, during which I conducted an in-depth literature review for my research topic, "Study of the robot as a vector for expressing expertise in a collaborative task from a distance." Eventually, I chose to terminate my doctoral studies for both professional and personal reasons. Professionally, I found greater fulfillment in a role as an engineer, focusing on research, testing, and production implementation. -->
 
 {style="text-align: justify;"}

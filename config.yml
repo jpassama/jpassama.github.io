@@ -1,0 +1,95 @@
+baseURL: "https://examplesite.com/"
+title: Julien Passama's Blog
+paginate: 5
+theme: PaperMod
+pluralizeListTitles: false
+
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: true
+buildExpired: true
+
+googleAnalytics: UA-123-45
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Julien Passama, Software Engineer (Robotics/Embed systems/3D perception)
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod, Julien PASSAMA]
+  author: Julien Passama, Robotics Engineer
+  DateFormat: "January 2, 2006"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  # UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  disableThemeToggle: false
+  defaultTheme: dark # dark, light
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Julien Passama, Software Engineer (Robotics/Embed systems/3D perception)
+    subtitle: "Welcome to my personnal blog, you'll find here my cv, projects and various posts"
+    imageUrl: "images/avatar.png"
+    imageWidth: 266
+    imageHeight: 200
+    imageTitle: julien.passama.png
+    buttons:
+      - name: About Me
+        url: about
+      # - name: Posts
+      #   url: posts
+      # - name: Projects
+      #   url: projects
+      # - name: Tags
+      #   url: tags
+      - name: TOTO
+        url: perception
+
+  socialIcons:
+    - name: linkedin
+      url: https://www.linkedin.com/in/julien-passama-b6406a12a/
+    - name: github
+      url: "https://github.com/jpassama"
+
+  # # for search
+  # # https://fusejs.io/api/options.html
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 0
+  #   keys: ["title", "permalink", "summary", "content"]
+
+menu:
+    main:
+        - identifier: About me
+          name: About
+          url: about
+          weight: 1
+        - identifier: Projects
+          name: Project
+          url: projects
+          weight: 2
+        - identifier: Post
+          name: Post
+          url: posts
+          weight: 3
+        - identifier: Search
+          name: Search
+          url: search
+          weight: 4
+

@@ -1,0 +1,5 @@
+{{ with .Get 0 | readFile }}
+{{ . | safeHTML }}
+{{ else }}
+File not found
+{{ end }}

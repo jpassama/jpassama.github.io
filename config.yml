@@ -15,7 +15,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Julien Passama, Software Engineer (Robotics/Embed systems/3D perception)
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod, Julien PASSAMA]
+  keywords: [Blog, Portfolio, PaperMod , Julien PASSAMA]
   author: Julien Passama, Robotics Engineer
   DateFormat: "January 2, 2006"
 

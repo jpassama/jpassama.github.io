@@ -1,5 +1,5 @@
 baseURL: "https://jpassama.github.io/"
-title: Julien Passama's Blog
+title: Julien Passama's Blog 
 paginate: 5
 theme: PaperMod
 pluralizeListTitles: false

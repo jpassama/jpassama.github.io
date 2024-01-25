@@ -8,6 +8,7 @@ enableRobotsTXT: true
 buildDrafts: true
 buildFuture: true
 buildExpired: true
+publishDir: "docs"
 
 googleAnalytics: UA-123-45
 
@@ -16,7 +17,7 @@ params:
   title: Julien Passama, Software Engineer (Robotics/Embed systems/3D perception)
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod , Julien PASSAMA]
-  author: Julien Passama, Robotics Engineer
+  author: Julien Passama, Software Engineer (Robotics/Embed systems/3D perception)
   DateFormat: "January 2, 2006"
 
   ShowReadingTime: true
